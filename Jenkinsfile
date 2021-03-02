@@ -3,7 +3,7 @@ pipeline {
       stages {
             stage('Init') {
                   steps {
-                        echo 'Hi, this is Anshul from LevelUp360'
+                        echo 'Hi, this is Pratyay. This is udemy course https://www.udemy.com/course/devops-training/learn/lecture/11818994#overview'
                         echo 'We are Starting the Testing'
                   }
             }
